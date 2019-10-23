@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Films>
+	<movie>
+		<title>Portrait of a Lady on Fire</title>
+		<genre>Dramat historyczny</genre>
+		<personal_rating>8</personal_rating>
+		<director>Celine Sciamma</director>
+		<actors>
+			<actor>Adele Haenel </actor>	
+			<actor>Noemie Merlant</actor>
+		</actors>
+		<year>2019</year>
+		<country>France</country>
+	</movie>
+	<movie>
+		<title>Melancholia</title>
+		<genre>Dramat</genre>
+		<personal_rating>7</personal_rating>
+		<director>Lars von Trier</director>
+		<actors>
+			<actor>Kristen Dunst</actor>
+			<actor>Charlotte Gainsbourg</actor>
+		</actors>
+		<year>2011</year>
+		<country>Denmark</country>
+	</movie>
+	<movie>
+		<title>The Devil Wears Prada</title>
+		<genre>Dramat/Komedia</genre>
+		<personal_rating>10</personal_rating>
+		<director>David Frankel</director>
+		<actors>
+			<actor>Meryl Streep</actor>
+			<actor>Anne Hathaway</actor>
+		</actors>
+		<year>2006</year>
+		<country>USA</country>
+	</movie>
+	<movie>
+		<title>Marie Antyoinette</title>
+		<genre>Dramat historyczny</genre>
+		<personal_rating>8</personal_rating>
+		<director>Sofia Coppola</director>
+		<actors>
+			<actor>Kristen Dunst</actor>
+			<actor>Jason Schwartzman</actor>
+		</actors>
+		<year>2007</year>
+		<country>France</country>
+	</movie>
+	<movie>
+		<title>Carol</title>
+		<genre>Melodramat</genre>
+		<personal_rating>10</personal_rating>
+		<director>Todd Haynes</director>
+		<actors>
+			<actor>Cate Blanchett</actor>
+			<actor>Roonwy Mara</actor>
+		</actors>
+		<year>2015</year>
+		<country>USA</country>
+	</movie>
+</Films>
